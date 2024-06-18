@@ -42,10 +42,12 @@ Demonstration of set up DC-1 machine and Windows 10 Client machine in Microsoft 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/alhutchinson/Configuring-Active-Directory/assets/171261246/7dcc6c51-e4b4-415f-802f-d6a094701a3a)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Demonstration of me Using Wizard to install Active Directory.
 </p>
 <br />
 
