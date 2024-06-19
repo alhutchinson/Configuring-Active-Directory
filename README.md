@@ -37,7 +37,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 </p>
 <p>
-Demonstration of Domain Controller (DC-1) machine and Windows 10 (Client-1) machine in Microsoft Azure.
+Set up the Domain Controller (DC-1) machine and Windows 10 (Client-1) machine in Microsoft Azure.
 </p>
 <br />
 
