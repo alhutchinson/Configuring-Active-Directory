@@ -57,7 +57,7 @@ When using Wizard to install Active Directory checks are done to see if the serv
 
 </p>
 <p>
-Created users in Active Directory Domain Controller using Power Shell ISE
+Power Shell ISE Stands for Power Shell Integrated Scripting Environment. It is a scripting tool provided by Microsoft to write and edit Power Shell scripts. It provide a great environment for writing, editing and debugging capabilities. This is an example of me creating users in Active Directory Domain Controller using Power Shell ISE.
 </p>
 <br />
 
