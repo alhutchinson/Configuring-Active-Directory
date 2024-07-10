@@ -37,7 +37,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 </p>
 <p>
-Active Directory is a software that allow you to manage resources like computers and printers within a network. It allows a centralized system for network administrators to manage and store information about resouces and users on a network. Here is demonstration of a Domain Controller (DC-1) machine and Windows 10 (Client-1) machine in Microsoft Azure.
+Active Directory is a software that allow you to manage resources like computers and printers within a network. It is a centralized system for network administrators to manage and store information about resouces and users on a network. Here is demonstration of me setting up a Domain Controller (DC-1) machine and Windows 10 (Client-1) machine in Microsoft Azure to begin setting up Active Directory.
 </p>
 <br />
 
