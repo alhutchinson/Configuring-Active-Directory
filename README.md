@@ -47,7 +47,7 @@ Active Directory is a software that allow you to manage resources like computers
 
 </p>
 <p>
-Demonstration of me Using Wizard to install Active Directory.
+When using Wizard to install Active Directory checks are done to see if the server meets the necessary requirements to become a Domain Controller. The Wizard checks operating system version, network configuration and hardware specification. This is a demonstration of me Using Wizard to install Active Directory.
 </p>
 <br />
 
